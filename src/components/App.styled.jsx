@@ -8,8 +8,8 @@ export const Container = styled.div`
 `;
 export const Title = styled.h2`
   text-align: center;
-  /* margin-bottom: 20px;
-  font-size: 36px; */
+  margin-bottom: 20px;
+  font-size: 36px;
 `;
 export const Notification = styled.div`
   padding: 10px 40px;
